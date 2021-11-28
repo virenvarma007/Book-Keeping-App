@@ -1,4 +1,4 @@
-# book-keeping-app Description
+# Book-Keeping-App Description
 
 - CRUD operations
 - Database modelling
